@@ -1,6 +1,8 @@
 <template>
   <div id="app">
-    <viewer></viewer>
+    <div class="container">
+      <viewer></viewer>
+    </div>
   </div>
 </template>
 
@@ -15,5 +17,8 @@ export default {
 }
 </script>
 
-<style>
+<style lang="scss" scoped>
+#app {
+  margin-top: 20px;
+}
 </style>

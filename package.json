@@ -1,7 +1,7 @@
 {
   "name": "wikipedia-viewer",
   "version": "1.0.0",
-  "description": "FreeCodeCamp: Build a Wikipedia Viewer Incomplete ",
+  "description": "FreeCodeCamp: Build a Wikipedia Viewer",
   "author": "Milan Arandjelovic",
   "private": true,
   "scripts": {
@@ -73,6 +73,7 @@
     "sinon-chai": "^2.8.0",
     "url-loader": "^0.5.7",
     "vue-loader": "^11.1.4",
+    "vue-resource": "^1.2.1",
     "vue-style-loader": "^2.0.0",
     "vue-template-compiler": "^2.2.4",
     "webpack": "^2.2.1",
